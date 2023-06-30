@@ -14,6 +14,6 @@ Script do STRUCTURE
 
 Script do PCA
 
-[PCA.zip](https://github.com/AfonsoVaz1/Assignment2/files/11919677/PCA.zip)
+- [PCA.zip](https://github.com/AfonsoVaz1/Assignment2/files/11919677/PCA.zip)
 
 
