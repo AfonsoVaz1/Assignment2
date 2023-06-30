@@ -1,4 +1,3 @@
-# Assignment2
 
 # Scripts utilizados no Assignment (Corte, Converter e Contar o número de Reads)
 [Scripts.zip](https://github.com/AfonsoVaz1/Assignment2/files/11919501/Scripts.zip)
