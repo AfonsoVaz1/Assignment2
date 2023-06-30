@@ -1,4 +1,4 @@
-#README
+# README
 
 Scripts utilizados no Assignment (Corte, Converter e Contar o número de Reads)
 
